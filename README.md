@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **React or C# projects**
 
-- 📫 How to reach me **nt.haberl@gmail.com**
+- 📫 You can reach me at **nt.haberl@gmail.com**
 
 - ⚡ Fun fact **I'm a classically trained pastry chef 🍰**
 
