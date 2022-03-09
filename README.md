@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Natascha</h1>
+<h1 align="center">Hello there 👋, I'm Natascha</h1>
 <h3 align="center">An enthusiastic web developer from Seattle</h3>
 
 - 🔭 I’m currently working on [Animal Crossing Critter Finder](http://54.200.117.215/)
