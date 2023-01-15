@@ -1,9 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Natascha</h1>
 <h3 align="center">An enthusiastic web developer from Seattle</h3>
 
-- 🔭 I’m currently working on my **Microsoft Azure Fundamentals (AZ-900) Certification**
-
-- 🌱 I’m currently learning about **Data Structures and Algorithms**
+- 🔭 I’m currently working on my **CS Fundamentals**
 
 - 👯 I’m looking to collaborate on **React or C# projects**
 
