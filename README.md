@@ -1,7 +1,9 @@
 <h1 align="center">Hello there 👋, I'm Natascha</h1>
 <h3 align="center">An enthusiastic web developer from Seattle</h3>
 
-- 🔭 I’m currently working on my **CS Fundamentals**
+- 🔭 I’m currently working on my **CS Fundamentals via Harvard**
+
+- 🌱 I'm currently learning about **version control with git**
 
 - 👯 I’m looking to collaborate on **React or C# projects**
 
