@@ -5,7 +5,7 @@
 
 - 🌱 I'm currently learning about **version control with git**
 
-- 👯 I’m looking to collaborate on **React or C# projects**
+- 👯 I’m not looking to collaborate at this time
 
 - 📫 You can reach me at **nt.haberl@gmail.com**
 
