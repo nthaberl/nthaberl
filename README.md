@@ -7,7 +7,7 @@
 
 - ❌ I’m not looking to collaborate at this time
 
-- 📫 You can reach me at **nt.haberl@gmail.com** or **natascha.haberl@bellevuecollege.edu**
+- 📫 You can reach me at **natascha.haberl@bellevuecollege.edu**
 
 - ⚡ Fun fact **I'm a classically trained pastry chef 🍰**
 
