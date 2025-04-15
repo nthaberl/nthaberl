@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on my **Bachelor of Applied Science in Software Development**
 
-- 🌱 I'm currently learning about **server side development**
+- 🌱 I'm currently learning about **relational databases!**
 
 - ❌ I’m not looking to collaborate at this time
 
-- 📫 You can reach me at **nt.haberl@gmail.com**
+- 📫 You can reach me at **nt.haberl@gmail.com** or **natascha.haberl@bellevuecollege.edu**
 
 - ⚡ Fun fact **I'm a classically trained pastry chef 🍰**
 
